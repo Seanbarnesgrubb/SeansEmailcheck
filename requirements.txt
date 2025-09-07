@@ -1,0 +1,16 @@
+# Email Checker Requirements
+# No additional packages required - uses Python standard library only
+# 
+# Standard library modules used:
+# - imaplib (for IMAP email access)
+# - email (for email parsing)
+# - getpass (for secure password input)
+# - argparse (for command line arguments)
+# - datetime (for date handling)
+# - json (for configuration storage)
+# - os (for file operations)
+# - sys (for system operations)
+
+# Optional: If you want to add enhanced features in the future
+# requests>=2.25.1  # for HTTP requests
+# keyring>=23.0.0   # for secure credential storage
